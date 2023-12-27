@@ -1,1 +1,4 @@
 # myfirstrepo
+
+## はじめてのgit
+githubはじめました
